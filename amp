@@ -1,3 +1,8 @@
+<!--TASK 2-->
+
+
+<!--HTML CODE-->
+
 <html lang="en">
   <head>
     <link rel="stylesheet" href="style.css"
@@ -20,7 +25,7 @@
 
 
 
-
+<!--CSS CODE-->
 
 #container{
   float: left;

@@ -1,1 +1,19 @@
-amp
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css"
+  </head>
+  
+  <body>
+    <div id="container">
+      
+      <img src="https://i.ibb.co/fGnrh4G/IMG-20250122-191837.jpg" alt="Profile Pic" height="200px" width="175px" >
+    </div>
+    <div id="bucket">
+      <h1>About Me</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Dolore harum architecto facilis vero tempore explicabo.lore</p>
+      <button>Download CV</button>
+    
+    
+    </div>
+  </body>
+</html>

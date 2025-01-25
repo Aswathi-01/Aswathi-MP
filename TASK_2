@@ -22,7 +22,7 @@
 
 
 
-<!-- style.css -->
+/* style.css */
 
 #container{
   float: left;
